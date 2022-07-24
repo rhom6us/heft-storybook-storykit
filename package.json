@@ -1,0 +1,34 @@
+{
+    "name": "heft-storybook-react-tutorial-storykit",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Storybook build dependencies for heft-storybook-react-tutorial",
+    "main": "dist/index.cjs",
+    "module": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": ""
+    },
+    "devDependencies": {
+        "@babel/core": "latest",
+        "@storybook/addon-actions": "latest",
+        "@storybook/addon-essentials": "latest",
+        "@storybook/addon-links": "latest",
+        "@storybook/cli": "latest",
+        "@storybook/components": "latest",
+        "@storybook/core-events": "latest",
+        "@storybook/react": "latest",
+        "@storybook/theming": "latest",
+        "@types/react-dom": "latest",
+        "@types/react": "latest",
+        "@types/webpack-env": "latest",
+        "babel-loader": "latest",
+        "css-loader": "latest",
+        "jest": "latest",
+        "react-dom": "latest",
+        "react": "latest",
+        "style-loader": "latest",
+        "typescript": "latest",
+        "webpack": "latest"
+    }
+}
