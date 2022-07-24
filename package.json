@@ -1,8 +1,8 @@
 {
-    "name": "heft-storybook-react-tutorial-storykit",
+    "name": "@rhom6us/heft-storybook-storykit",
     "version": "1.0.0",
-    "private": true,
-    "description": "Storybook build dependencies for heft-storybook-react-tutorial",
+    "private": false,
+    "description": "Storybook build dependencies for heft-storybook plugin",
     "main": "dist/index.cjs",
     "module": "dist/index.js",
     "types": "dist/index.d.ts",
