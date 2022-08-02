@@ -1,6 +1,6 @@
 {
     "name": "@rhom6us/heft-storybook-storykit",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "private": false,
     "description": "Storybook build dependencies for heft-storybook plugin",
     "main": "dist/index.cjs",
@@ -9,7 +9,7 @@
     "scripts": {
         "build": ""
     },
-    "devDependencies": {
+    "dependencies": {
         "@babel/core": "latest",
         "@storybook/addon-actions": "latest",
         "@storybook/addon-essentials": "latest",
